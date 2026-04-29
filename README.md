@@ -13,12 +13,12 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```
-🎯 Passionate about creating impactful solutions
-🌱 Always learning and exploring new technologies  
-💡 Love turning ideas into reality through code
-🤖 Exploring the fascinating world of AI/ML
-🤝 Open to collaboration on interesting projects
-☕ Fueled by coffee and curiosity
+📊 Transitioning into Data Analytics with a strong engineering background
+📈 Skilled in Python, SQL & Power BI for data-driven decision making
+🔍 Experienced in data cleaning, EDA & dashboard creation
+🏭 Background in Control & Automation Engineering (Water Treatment Systems)
+🚀 Building real-world data projects to solve business problems
+☕ Fueled by curiosity and continuous learning
 ```
 
 <br clear="both"/>
