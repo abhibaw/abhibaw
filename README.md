@@ -53,6 +53,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" /> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Power BI" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Power BI" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="Power BI" width="50" height="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Power BI" width="50" height="50"/>
+
+
 
 
 
